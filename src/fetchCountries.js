@@ -1,4 +1,4 @@
-// === именованный экспорт функции которая делает запрос на бекенд и возвращает промис
+
 export function fetchCountries(name) {
   // переменная для параметров запроса
   const params = 'name,capital,population,flags,languages';
