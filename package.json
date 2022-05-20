@@ -1,16 +1,16 @@
 {
   "name": "goit-js-hw-10",
   "version": "1.1.0",
-  "description": "",
+  "description": "HW 10",
   "main": "index.js",
-  "homepage": "https://Snisarenko21.github.io/goit-js-hw-10",
+  "homepage": "https://Snisarenko21.github.io/goit-js-hw-10/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10/" 
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"    
+    "url": "git+https://Snisarenko21.github.io/goit-js-hw-10.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
@@ -26,6 +26,8 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
+    "index.js": "0.0.3",
+    "lodash.debounce": "^4.0.8",
     "notiflix": "^3.2.5"
   }
 }
