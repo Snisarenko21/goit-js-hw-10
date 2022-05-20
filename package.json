@@ -6,11 +6,11 @@
   "homepage": "https://Snisarenko21.github.io/goit-js-hw-10",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/" 
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Snisarenko21/goit-js-hw-10"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"    
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
